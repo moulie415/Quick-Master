@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 1
   m_EditorClassIdentifier: 
   question: Who is the leader singer of August Burns Read?
+  answers:
+  - JB Brubaker
+  - Jake Luhrs
+  - Matt Greiner
+  - Dustin Davidson
+  correctAnswerIndex: 1
