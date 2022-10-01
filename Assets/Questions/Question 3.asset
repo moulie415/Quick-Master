@@ -15,3 +15,9 @@ MonoBehaviour:
   question: 'Who is the drummer of August Burns Red?
 
 '
+  answers:
+  - Jake Luhrs
+  - Matt Greiner
+  - Brent Rambler
+  - Dustin Davidson
+  correctAnswerIndex: 1
